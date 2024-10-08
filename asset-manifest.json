@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ARTle/static/css/main.115de90f.css",
-    "main.js": "/ARTle/static/js/main.95d8288f.js",
+    "main.js": "/ARTle/static/js/main.2b9b8731.js",
     "index.html": "/ARTle/index.html",
     "main.115de90f.css.map": "/ARTle/static/css/main.115de90f.css.map",
-    "main.95d8288f.js.map": "/ARTle/static/js/main.95d8288f.js.map"
+    "main.2b9b8731.js.map": "/ARTle/static/js/main.2b9b8731.js.map"
   },
   "entrypoints": [
     "static/css/main.115de90f.css",
-    "static/js/main.95d8288f.js"
+    "static/js/main.2b9b8731.js"
   ]
 }
